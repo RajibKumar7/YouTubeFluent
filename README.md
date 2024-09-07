@@ -29,8 +29,6 @@
 
 - #### [4] **[Use JS Code](https://github.com/RajibKumar7/YouTubeFluent/blob/main/theme/script.js "Use JS Code").**
 
-## PREVIEW:
-<img src="https://i.imgur.com/CEUr1Bi.png" />
 
 ## Credits:
 
@@ -41,4 +39,4 @@ Original Author:
 [Simon Galver](https://userstyles.org/users/854680 "Simon Galver") - 
 
 
-**01/08/2022.**
+**07/09/2024.**
