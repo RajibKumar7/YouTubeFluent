@@ -25,7 +25,6 @@
 - #### [2] **[Go to Extension Settings](chrome-extension://ogkoifddpkoabehfemkolflcjhklmkge/options.html "Go to Extension Settings").**
 
 
-https://github.com/RajibKumar7/YouTubeFluent/blob/main/theme/style.css
 - #### [3] **[Use CSS Code](https://github.com/RajibKumar7/YouTubeFluent/blob/main/theme/style.css "Use CSS Code").**
 
 - #### [4] **[Use JS Code](https://github.com/RajibKumar7/YouTubeFluent/blob/main/theme/script.js "Use JS Code").**
