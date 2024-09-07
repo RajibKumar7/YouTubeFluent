@@ -29,10 +29,10 @@
 - #### [2] **[Go to Extension Settings](chrome-extension://ogkoifddpkoabehfemkolflcjhklmkge/options.html "Go to Extension Settings").**
 
 <img width="200px" src="https://i.imgur.com/YdZm30f.png"></a>
+https://github.com/RajibKumar7/YouTubeFluent/blob/main/theme/style.css
+- #### [3] **[Use CSS Code](https://github.com/RajibKumar7/YouTubeFluent/blob/main/theme/style.css "Use CSS Code").**
 
-- #### [3] **[Use CSS Code](https://github.com/LawOff/YouTubeFluent/blob/main/theme/style.css "Use CSS Code").**
-
-- #### [4] **[Use JS Code](https://github.com/LawOff/YouTubeFluent/blob/main/theme/script.js "Use JS Code").**
+- #### [4] **[Use JS Code](https://github.com/RajibKumar7/YouTubeFluent/blob/main/theme/script.js "Use JS Code").**
 
 ## PREVIEW:
 <img src="https://i.imgur.com/CEUr1Bi.png" />
