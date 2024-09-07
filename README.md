@@ -16,10 +16,6 @@
 
 ---
 
-## Video Tutorial:
-<table><tr><td><a href="https://youtu.be/yUj94z1VsKc"><img width="300px" src="https://i.imgur.com/1f5P5de.jpeg"></a></td>
-<td><a href="https://youtu.be/yUj94z1VsKc">How to have a MODERN YouTube Interface (2022) </a><br/>August 2, 2022</td></tr></table>
-
 ## Installation:
  
 - #### [1] **Install the extension "Tweaks for YouTube": [Chrome](https://chrome.google.com/webstore/detail/tweaks-for-youtube/ogkoifddpkoabehfemkolflcjhklmkge "Tweaks for YouTube - Chrome Web Store") or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tweaks-for-youtube/ "Tweaks for YouTube - Firefox").**
@@ -28,7 +24,7 @@
 
 - #### [2] **[Go to Extension Settings](chrome-extension://ogkoifddpkoabehfemkolflcjhklmkge/options.html "Go to Extension Settings").**
 
-<img width="200px" src="https://i.imgur.com/YdZm30f.png"></a>
+
 https://github.com/RajibKumar7/YouTubeFluent/blob/main/theme/style.css
 - #### [3] **[Use CSS Code](https://github.com/RajibKumar7/YouTubeFluent/blob/main/theme/style.css "Use CSS Code").**
 
