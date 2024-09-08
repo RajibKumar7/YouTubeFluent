@@ -7,8 +7,7 @@
 <p align="center">
     <a href="https://www.youtube.com/@CodeWithRajib?sub_confirmation=1">
       <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://t.me/CodingSolutions7" alt="Dev Pro Tips Discussion & Support Group">
-    <img src="https://img.shields.io/discord/836621542917275668?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
+      [![Join Support Group](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/Bisal_Files_Talk)
   </p>
 </p>
 </p>
