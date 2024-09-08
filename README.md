@@ -5,9 +5,9 @@
 <img src="https://i.imgur.com/sEXa9Cr.jpg" />
 </div>
 <p align="center">
-    <a href="https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg?sub_confirmation=1">
+    <a href="https://www.youtube.com/@CodeWithRajib?sub_confirmation=1">
       <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.gg/cPKc5B6Gnv" alt="Dev Pro Tips Discussion & Support Server">
+  <a href="https://t.me/CodingSolutions7" alt="Dev Pro Tips Discussion & Support Group">
     <img src="https://img.shields.io/discord/836621542917275668?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
   </p>
 </p>
