@@ -6,8 +6,6 @@
 </div>
 <p align="center">
     <a href="https://www.youtube.com/@CodeWithRajib?sub_confirmation=1">
-      <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-[![Join Support Group](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/Bisal_Files_Talk)
   </p>
 </p>
 </p>
